@@ -1,0 +1,6 @@
+package com.example.widjet_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
